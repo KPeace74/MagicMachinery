@@ -1,0 +1,12 @@
+Version 1.4:
+	-Ancient Stone Tablet now with working GUI
+	-Hardened Chest now retains its inventory after world close (Fancy, right?)
+	-Hardened Chest now has a texture
+	-Energy transfer now more efficient
+	-Energized Staff now uses NBT
+	-Herobrine removed
+	-Guide Book now implemented
+	-Player Altar now makes you nauseous
+	-Player Altar no longer crashes you when broken after world load
+	-Staff of the Explorer now launches enemies higher for magical energy
+	-New Mysterious Liquid added
